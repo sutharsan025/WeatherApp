@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sutharsan.weatherapp.WeatherActivity" >
+
+
+   <item
+       android:id="@+id/chennai"
+       android:orderInCategory="1"
+       android:title="Chennai"/>
+   <item
+       android:id="@+id/mumbai"
+       android:orderInCategory="1"
+       android:title="Mumbai"/>
+   <item
+       android:id="@+id/bangalore"
+       android:orderInCategory="1"
+       android:title="Bangalore"/>
+   <item
+       android:id="@+id/delhi"
+       android:orderInCategory="1"
+       android:title="New Delhi"/>
+</menu>
